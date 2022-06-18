@@ -58,7 +58,7 @@ Finally based on all the four result sets we can say that there is a big number 
 
 - There are more number of employees in the senior positions as we can see in the below list to monitor the next generation employees.
 
-<img width="129" alt="image" src="https://user-images.githubusercontent.com/104597335/174444263-22ef0c01-5d55-4379-92e0-029191fd1f0a.png">
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/104597335/174444263-22ef0c01-5d55-4379-92e0-029191fd1f0a.png">
 
 
 
