@@ -23,7 +23,7 @@ Below are the results of the analysis
 
 - The first result set is the retirement_titles where we selected the employees based on the birthdate between 1952 and 1955. We got a huge number of employees that are born within this range who are still working or worked with the company.  There are also multiple records of few employees indicating that the results contain all the titles of the employee he previously workied with along with the current title. Below is the image showing few rows of data.
 
-<img width="250" alt="image" src="https://user-images.githubusercontent.com/104597335/174444334-84ff7bf5-11a4-4412-957b-38d0fff60906.png">
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/104597335/174444334-84ff7bf5-11a4-4412-957b-38d0fff60906.png">
 
 
 
@@ -33,21 +33,21 @@ ORDER BY emp_no, to_date DESC;
 
 Below is the image showing few rows of data in this data set.
 
-<img width="208" alt="image" src="https://user-images.githubusercontent.com/104597335/174444394-09b85fa7-3adc-4b3a-ab99-5e2002240f7b.png">
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/104597335/174444394-09b85fa7-3adc-4b3a-ab99-5e2002240f7b.png">
 
 
 - The third result set is retiring titles where we retrieved the number of employees by their most recent job title who are about to retire. Below is the image of the output. By this we can say that there are more number of employees in the senior roles who are retiring.
 
 Below is the image showing few rows of data in this data set.
 
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/104597335/174444421-7d1a8215-d74e-48a8-8a61-916f6fec3cc2.png">
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/104597335/174444421-7d1a8215-d74e-48a8-8a61-916f6fec3cc2.png">
 
 
 
 - The fourth result set is the mentorship_eligibilty that holds the current employees who were born between January 1, 1965 and December 31, 1965 and who are still with the company. The result set contains 1550 employees who are eligible for the retirement package
 Below is the image that shows few records of this result set.
 
-<img width="317" alt="image" src="https://user-images.githubusercontent.com/104597335/174444477-f28d743b-7510-4688-bdad-750d9d15bac7.png">
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/104597335/174444477-f28d743b-7510-4688-bdad-750d9d15bac7.png">
 
 
 Finally based on all the four result sets we can say that there is a big number who are retiring from the company and majority of them are in senior roles.
