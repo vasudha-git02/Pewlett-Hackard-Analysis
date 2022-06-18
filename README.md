@@ -40,7 +40,7 @@ Below is the image showing few rows of data in this data set.
 
 Below is the image showing few rows of data in this data set.
 
-<img width="130" alt="image" src="https://user-images.githubusercontent.com/104597335/174444421-7d1a8215-d74e-48a8-8a61-916f6fec3cc2.png">
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/104597335/174444421-7d1a8215-d74e-48a8-8a61-916f6fec3cc2.png">
 
 
 
@@ -78,6 +78,7 @@ GROUP BY de.dept_no,d.dept_name
 ORDER BY de.dept_no;
 
 - This query returns all the retiring employee information thier names, latest title, salary and the department information
+
 SELECT 
     DISTINCT ON (e.emp_no) e.emp_no,
     e.first_name,
